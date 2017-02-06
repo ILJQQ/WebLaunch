@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebLaunch</string>
+    <string name="info">这是一个由浏览器启动跳转的activity</string>
+    <string name="btnLaunch">点击跳转到另一个Activity</string>
+</resources>
